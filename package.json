@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "jquery": "^3.6.0",
+    "mdb-ui-kit": "^4.4.0"
+  }
+}

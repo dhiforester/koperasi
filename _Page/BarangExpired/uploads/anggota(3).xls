@@ -1,0 +1,307 @@
+ 
+<html>
+    <head>
+            <style type="text/css">
+                table tr td {
+                    border: 1px solid #666;
+                    font-size:11px;
+                    color:#333;
+                    border-spacing: 0px;
+                    padding: 4px;
+                }
+            </style>
+    </head>
+    <body>
+        <table>
+            <tr>
+                <td align="center">
+                    <b>ID Batch</b>
+                </td>
+                <td align="center">
+                    <b>Kode Barang</b>
+                </td>
+                <td align="center">
+                    <b>Nama Barang</b>
+                </td>
+                <td align="center">
+                    <b>Satuan</b>
+                </td>
+                <td align="center">
+                    <b>Qty</b>
+                </td>
+                <td align="center">
+                    <b>No.Batch</b>
+                </td>
+                <td align="center">
+                    <b>Expired</b>
+                </td>
+                <td align="center">
+                    <b>Reminder</b>
+                </td>
+                <td align="center">
+                    <b>Status</b>
+                </td>
+            </tr>
+                            <tr>
+                    <td align="center">
+                        2                    </td>
+                    <td align="left">
+                        909                    </td>
+                    <td align="left">
+                        MY Jelly                    </td>
+                    <td align="left">
+                        Dus                    </td>
+                    <td align="left">
+                        1                    </td>
+                    <td align="left">
+                        909-3                    </td>
+                    <td align="left">
+                        2022-09-24                    </td>
+                    <td align="left">
+                        2022-09-18                    </td>
+                    <td align="left">
+                        Terdaftar                    </td>
+                </tr>
+                                <tr>
+                    <td align="center">
+                        3                    </td>
+                    <td align="left">
+                        9032                    </td>
+                    <td align="left">
+                         Nasal O2 bayi2                    </td>
+                    <td align="left">
+                        Tablet                    </td>
+                    <td align="left">
+                        10                    </td>
+                    <td align="left">
+                        9032-1                    </td>
+                    <td align="left">
+                        2022-09-10                    </td>
+                    <td align="left">
+                        2022-09-11                    </td>
+                    <td align="left">
+                        Terdaftar                    </td>
+                </tr>
+                                <tr>
+                    <td align="center">
+                        4                    </td>
+                    <td align="left">
+                        9032                    </td>
+                    <td align="left">
+                         Nasal O2 bayi2                    </td>
+                    <td align="left">
+                        Dus                    </td>
+                    <td align="left">
+                        1                    </td>
+                    <td align="left">
+                        9032-4                    </td>
+                    <td align="left">
+                        2022-09-24                    </td>
+                    <td align="left">
+                        2022-09-18                    </td>
+                    <td align="left">
+                        Terjual                    </td>
+                </tr>
+                                <tr>
+                    <td align="center">
+                        5                    </td>
+                    <td align="left">
+                        906                    </td>
+                    <td align="left">
+                        Nedle Terumo 20                    </td>
+                    <td align="left">
+                        Tablet                    </td>
+                    <td align="left">
+                        100                    </td>
+                    <td align="left">
+                        906                    </td>
+                    <td align="left">
+                        2022-09-17                    </td>
+                    <td align="left">
+                        2022-09-11                    </td>
+                    <td align="left">
+                        Terdaftar                    </td>
+                </tr>
+                                <tr>
+                    <td align="center">
+                        8                    </td>
+                    <td align="left">
+                        906                    </td>
+                    <td align="left">
+                        Nedle Terumo 20                    </td>
+                    <td align="left">
+                        Tablet                    </td>
+                    <td align="left">
+                        10                    </td>
+                    <td align="left">
+                        906-5                    </td>
+                    <td align="left">
+                        2022-10-01                    </td>
+                    <td align="left">
+                        2022-09-25                    </td>
+                    <td align="left">
+                        Terdaftar                    </td>
+                </tr>
+                                <tr>
+                    <td align="center">
+                        9                    </td>
+                    <td align="left">
+                        108837348547                    </td>
+                    <td align="left">
+                        Acetylsisteine 200mg @5x10 cap nulab                    </td>
+                    <td align="left">
+                        Tablet                    </td>
+                    <td align="left">
+                        15                    </td>
+                    <td align="left">
+                        1088373485470                    </td>
+                    <td align="left">
+                        2022-10-08                    </td>
+                    <td align="left">
+                        2022-10-02                    </td>
+                    <td align="left">
+                        Terdaftar                    </td>
+                </tr>
+                                <tr>
+                    <td align="center">
+                        10                    </td>
+                    <td align="left">
+                        108837348547                    </td>
+                    <td align="left">
+                        Acetylsisteine 200mg @5x10 cap nulab                    </td>
+                    <td align="left">
+                        Tablet                    </td>
+                    <td align="left">
+                        15                    </td>
+                    <td align="left">
+                        1088373485472                    </td>
+                    <td align="left">
+                        2022-09-30                    </td>
+                    <td align="left">
+                        2022-09-25                    </td>
+                    <td align="left">
+                        Terdaftar                    </td>
+                </tr>
+                                <tr>
+                    <td align="center">
+                        11                    </td>
+                    <td align="left">
+                        2345654634                    </td>
+                    <td align="left">
+                        acyclovir 400mg samphar @                     </td>
+                    <td align="left">
+                        Tablet                    </td>
+                    <td align="left">
+                        12                    </td>
+                    <td align="left">
+                        2345654634                    </td>
+                    <td align="left">
+                        2022-09-01                    </td>
+                    <td align="left">
+                        2022-09-30                    </td>
+                    <td align="left">
+                        Terdaftar                    </td>
+                </tr>
+                                <tr>
+                    <td align="center">
+                        12                    </td>
+                    <td align="left">
+                        2345654634                    </td>
+                    <td align="left">
+                        acyclovir 400mg samphar @                     </td>
+                    <td align="left">
+                        Tablet                    </td>
+                    <td align="left">
+                        1                    </td>
+                    <td align="left">
+                        23456546341                    </td>
+                    <td align="left">
+                        2022-11-05                    </td>
+                    <td align="left">
+                        2022-10-30                    </td>
+                    <td align="left">
+                        Terdaftar                    </td>
+                </tr>
+                                <tr>
+                    <td align="center">
+                        13                    </td>
+                    <td align="left">
+                        909                    </td>
+                    <td align="left">
+                        MY Jelly                    </td>
+                    <td align="left">
+                        Botol                    </td>
+                    <td align="left">
+                        1                    </td>
+                    <td align="left">
+                        909                    </td>
+                    <td align="left">
+                        2022-10-01                    </td>
+                    <td align="left">
+                        2022-09-25                    </td>
+                    <td align="left">
+                        Terdaftar                    </td>
+                </tr>
+                                <tr>
+                    <td align="center">
+                        14                    </td>
+                    <td align="left">
+                        904                    </td>
+                    <td align="left">
+                        Nasal adult non rebrething                    </td>
+                    <td align="left">
+                        Tablet                    </td>
+                    <td align="left">
+                        1                    </td>
+                    <td align="left">
+                        904                    </td>
+                    <td align="left">
+                        2022-10-08                    </td>
+                    <td align="left">
+                        2022-10-02                    </td>
+                    <td align="left">
+                        Terjual                    </td>
+                </tr>
+                                <tr>
+                    <td align="center">
+                        15                    </td>
+                    <td align="left">
+                        2                    </td>
+                    <td align="left">
+                        Amoksilin                    </td>
+                    <td align="left">
+                        Tablet                    </td>
+                    <td align="left">
+                        1                    </td>
+                    <td align="left">
+                        21                    </td>
+                    <td align="left">
+                        2023-01-16                    </td>
+                    <td align="left">
+                        2023-01-22                    </td>
+                    <td align="left">
+                        Terdaftar                    </td>
+                </tr>
+                                <tr>
+                    <td align="center">
+                        17                    </td>
+                    <td align="left">
+                        8999999027049                    </td>
+                    <td align="left">
+                        Lifebuoy Hairfall Trmt 9ml                    </td>
+                    <td align="left">
+                        RCG                    </td>
+                    <td align="left">
+                        10                    </td>
+                    <td align="left">
+                        89999990270492                    </td>
+                    <td align="left">
+                        2023-02-28                    </td>
+                    <td align="left">
+                        2023-02-01                    </td>
+                    <td align="left">
+                        None                    </td>
+                </tr>
+                        </table>
+    </body>
+</html>

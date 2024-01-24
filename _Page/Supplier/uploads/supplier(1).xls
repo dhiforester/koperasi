@@ -1,0 +1,203 @@
+ 
+<html>
+    <head>
+            <style type="text/css">
+                table tr td {
+                    border: 1px solid #666;
+                    font-size:11px;
+                    color:#333;
+                    border-spacing: 0px;
+                    padding: 4px;
+                }
+            </style>
+    </head>
+    <body>
+        <table>
+            <tr>
+                <td align="center">
+                    <b>ID Supplier</b>
+                </td>
+                <td align="center">
+                    <b>Nama Supplier</b>
+                </td>
+                <td align="center">
+                    <b>alamat</b>
+                </td>
+                <td align="center">
+                    <b>Email</b>
+                </td>
+                <td align="center">
+                    <b>Kontak</b>
+                </td>
+            </tr>
+                            <tr>
+                    <td align="center">
+                        1                    </td>
+                    <td align="left">
+                        PT.Kimia Farma                    </td>
+                    <td align="left">
+                        Jalan anggrek 4 no 15                    </td>
+                    <td align="left">
+                        kimiafarma@gmail.com                    </td>
+                    <td align="left">
+                        02176444553                    </td>
+                </tr>
+                                <tr>
+                    <td align="center">
+                        2                    </td>
+                    <td align="left">
+                        PT.Sanbe Farma                    </td>
+                    <td align="left">
+                        Jalan Raya Pasar Pagi No 14                    </td>
+                    <td align="left">
+                        sanbefarma@gmail.com                    </td>
+                    <td align="left">
+                        02315634512                    </td>
+                </tr>
+                                <tr>
+                    <td align="center">
+                        5                    </td>
+                    <td align="left">
+                        PT. RAJAWALI NUSINDO                    </td>
+                    <td align="left">
+                        Jalan anggrek 4 no 15 - 02315634544                    </td>
+                    <td align="left">
+                        rajawalinusindo@gmail.com                    </td>
+                    <td align="left">
+                        02315634544                    </td>
+                </tr>
+                                <tr>
+                    <td align="center">
+                        6                    </td>
+                    <td align="left">
+                        PT.Armala Putra                    </td>
+                    <td align="left">
+                        Jalan Anggrek 4 no 15                    </td>
+                    <td align="left">
+                        armalaputra@gmail.com                    </td>
+                    <td align="left">
+                        023254647                    </td>
+                </tr>
+                                <tr>
+                    <td align="center">
+                        7                    </td>
+                    <td align="left">
+                        CV. SANITA KARUNIA MANDIRI                    </td>
+                    <td align="left">
+                        Jalan Raya Pasar Pagi No 14                    </td>
+                    <td align="left">
+                        mandirikaruniasanita@gmail.com                    </td>
+                    <td align="left">
+                        02176444553                    </td>
+                </tr>
+                                <tr>
+                    <td align="center">
+                        8                    </td>
+                    <td align="left">
+                        PT. MTA ALKES INDO                    </td>
+                    <td align="left">
+                        Jalan Raya Pasar Pagi No 14                    </td>
+                    <td align="left">
+                        123@GMAIL.COM                    </td>
+                    <td align="left">
+                        02176444553                    </td>
+                </tr>
+                                <tr>
+                    <td align="center">
+                        9                    </td>
+                    <td align="left">
+                        PT.Indah Medis Jaya                    </td>
+                    <td align="left">
+                        Jalan Siliwangi no 15                    </td>
+                    <td align="left">
+                        indahmedis@gmail.com                    </td>
+                    <td align="left">
+                        02328765585                    </td>
+                </tr>
+                                <tr>
+                    <td align="center">
+                        10                    </td>
+                    <td align="left">
+                        PT.Wings Food                    </td>
+                    <td align="left">
+                        Jalan Raya Pasar Pagi No 14                    </td>
+                    <td align="left">
+                        wingsfood@gmail.com                    </td>
+                    <td align="left">
+                        0227856                    </td>
+                </tr>
+                                <tr>
+                    <td align="center">
+                        13                    </td>
+                    <td align="left">
+                        PT.Indah Medis Jaya                    </td>
+                    <td align="left">
+                        Jalan Raya Pasar Pagi No 142                    </td>
+                    <td align="left">
+                        wingsfood22@gmail.com                    </td>
+                    <td align="left">
+                        02278562                    </td>
+                </tr>
+                                <tr>
+                    <td align="center">
+                        14                    </td>
+                    <td align="left">
+                        PT.Indofood tbk                    </td>
+                    <td align="left">
+                        Jalamn                    </td>
+                    <td align="left">
+                        indofood@gmail.com                    </td>
+                    <td align="left">
+                        345345667                    </td>
+                </tr>
+                                <tr>
+                    <td align="center">
+                        15                    </td>
+                    <td align="left">
+                        JVC Kuningan                    </td>
+                    <td align="left">
+                        Jalamn                    </td>
+                    <td align="left">
+                        jvc@gmail.com                    </td>
+                    <td align="left">
+                        4235456                    </td>
+                </tr>
+                                <tr>
+                    <td align="center">
+                        16                    </td>
+                    <td align="left">
+                        PT.Medic Islam                    </td>
+                    <td align="left">
+                        Jalan Hayam Wuruk no 12 Jakarta timur                    </td>
+                    <td align="left">
+                        MedicIsalam@gmail.com                    </td>
+                    <td align="left">
+                        022546467                    </td>
+                </tr>
+                                <tr>
+                    <td align="center">
+                        17                    </td>
+                    <td align="left">
+                        PTT.Indah Permai                    </td>
+                    <td align="left">
+                        Jalan Raya Pasar Pagi No 14                    </td>
+                    <td align="left">
+                        indahpermai@gmail.com                    </td>
+                    <td align="left">
+                        123123                    </td>
+                </tr>
+                                <tr>
+                    <td align="center">
+                        18                    </td>
+                    <td align="left">
+                        PTT.Indah Permai2                    </td>
+                    <td align="left">
+                        Jalan Raya Pasar Pagi No 14                    </td>
+                    <td align="left">
+                        indahpermai2@gmail.com                    </td>
+                    <td align="left">
+                        12121212                    </td>
+                </tr>
+                        </table>
+    </body>
+</html>
